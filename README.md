@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,40:1B1330,75:241A3D,100:0C1420&height=250&section=header&text=SHIVADATT%20PURI&fontSize=52&fontColor=E8C468&fontAlignY=42&animation=fadeIn&desc=CO-FOUNDER%20%26%20COO&descAlignY=62&descSize=15&descColor=6FE0C9" width="100%" alt="SHIVADATT PURI"/>
+<img src="./assets/header.png" width="100%" alt="SHIVADATT PURI"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=6FE0C9&center=true&vCenter=true&width=560&lines=Flutter+Developer+%C2%B7+Mobile+App+Architect;Product+Development+%C2%B7+Business+Strategy;Building+Mobile+%26+Web+Applications;Technology+%C2%B7+Product+%C2%B7+Business" alt="Typing SVG"/>
 
@@ -22,13 +22,15 @@
 <img src="https://img.shields.io/badge/GitHub-07070C?style=flat-square&logo=github&logoColor=E8C468" height="26"/>
 </a>
 
+<br/>
+
 <sub>
 <img src="https://komarev.com/ghpvc/?username=Shivadatt&style=flat-square&color=1B1330&label=views&labelColor=07070C" height="20"/>
 </sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:241A3D,100:0C1420&height=2" width="100%"/>
+<img src="./assets/divider.png" width="100%" height="4" alt="divider"/>
 
 <br/>
 
@@ -49,7 +51,7 @@ Building digital products from idea to execution.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:241A3D,100:0C1420&height=2" width="100%"/>
+<img src="./assets/divider.png" width="100%" height="4" alt="divider"/>
 
 <div align="center">
 
@@ -65,39 +67,13 @@ I work across **application development, product development, business strategy 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Flutter-07070C?style=for-the-badge&logo=flutter&logoColor=6FE0C9"/>
-<img src="https://img.shields.io/badge/Dart-07070C?style=for-the-badge&logo=dart&logoColor=6FE0C9"/>
-<img src="https://img.shields.io/badge/Firebase-07070C?style=for-the-badge&logo=firebase&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Supabase-07070C?style=for-the-badge&logo=supabase&logoColor=6FE0C9"/>
-<img src="https://img.shields.io/badge/GetX-07070C?style=for-the-badge&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/BLoC-07070C?style=for-the-badge&logoColor=6FE0C9"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:241A3D,100:0C1420&height=2" width="100%"/>
-
-<div align="center">
-
-## Skills
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,androidstudio,vscode,figma&theme=dark"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Mobile%20Development-07070C?style=for-the-badge&logo=flutter&logoColor=6FE0C9"/>&nbsp;
-<img src="https://img.shields.io/badge/Product%20Development-07070C?style=for-the-badge&logoColor=E8C468"/>&nbsp;
-<img src="https://img.shields.io/badge/Business%20Strategy-07070C?style=for-the-badge&logoColor=6FE0C9"/>&nbsp;
-<img src="https://img.shields.io/badge/Project%20Management-07070C?style=for-the-badge&logoColor=E8C468"/>
-
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:241A3D,100:0C1420&height=2" width="100%"/>
+<img src="./assets/divider.png" width="100%" height="4" alt="divider"/>
 
 <div align="center">
 
@@ -106,6 +82,7 @@ I work across **application development, product development, business strategy 
 </div>
 
 <table width="100%">
+
 <tr>
 <th align="left">Project</th>
 <th align="left">Technology</th>
@@ -152,38 +129,48 @@ I work across **application development, product development, business strategy 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:241A3D,100:0C1420&height=2" width="100%"/>
+<img src="./assets/divider.png" width="100%" height="4" alt="divider"/>
 
 <div align="center">
 
-## Development Focus
+## Skills
 
 <br/>
 
-<img src="https://img.shields.io/badge/Flutter%20Apps-07070C?style=for-the-badge&logo=flutter&logoColor=6FE0C9"/>&nbsp;
-<img src="https://img.shields.io/badge/Mobile%20Architecture-07070C?style=for-the-badge&logoColor=E8C468"/>&nbsp;
-<img src="https://img.shields.io/badge/Firebase%20%26%20Supabase-07070C?style=for-the-badge&logo=firebase&logoColor=E8C468"/>&nbsp;
-<img src="https://img.shields.io/badge/Product%20Strategy-07070C?style=for-the-badge&logoColor=6FE0C9"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,androidstudio,vscode,figma&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Mobile%20Development-07070C?style=for-the-badge&logo=flutter&logoColor=6FE0C9"/>&nbsp;
+<img src="https://img.shields.io/badge/Product%20Development-07070C?style=for-the-badge&labelColor=E8C468&color=07070C"/>&nbsp;
+<img src="https://img.shields.io/badge/Business%20Strategy-07070C?style=for-the-badge&labelColor=6FE0C9&color=07070C"/>&nbsp;
+<img src="https://img.shields.io/badge/Project%20Management-07070C?style=for-the-badge&labelColor=E8C468&color=07070C"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:241A3D,100:0C1420&height=2" width="100%"/>
+<img src="./assets/divider.png" width="100%" height="4" alt="divider"/>
 
 <div align="center">
+
+## GitHub Statistics
+
+<br/>
 
 <img src="https://github-readme-stats.shion.dev/api?username=Shivadatt&theme=tokyonight&hide_border=true&border_radius=14&include_all_commits=true&count_private=true&show_icons=true&title_color=E8C468&icon_color=6FE0C9&text_color=CBD5E1&bg_color=07070C" height="165"/>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shivadatt&hide_border=true&border_radius=14&background=07070C&ring=E8C468&fire=E8C468&currStreakLabel=6FE0C9&sideLabels=6FE0C9&sideNums=E8C468&dates=64748B&currStreakNum=E8C468" height="165"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shivadatt&theme=tokyonight&hide_border=true&border_radius=14&layout=compact&langs_count=6&title_color=E8C468&text_color=CBD5E1&bg_color=07070C" height="165"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:241A3D,100:0C1420&height=2" width="100%"/>
+<br/>
+
+<img src="./assets/divider.png" width="100%" height="4" alt="divider"/>
 
 <div align="center">
 
@@ -193,14 +180,12 @@ I work across **application development, product development, business strategy 
 
 **Flutter • Mobile • Product • Technology • Business**
 
-<br/>
+<br/><br/>
 
 <a href="mailto:shivadattpuri2172000@gmail.com">
 <img src="https://img.shields.io/badge/Get%20in%20touch-07070C?style=for-the-badge&logo=gmail&logoColor=6FE0C9" height="34"/>
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,40:1B1330,75:241A3D,100:0C1420&height=130&section=footer"/>
 
 </div>
