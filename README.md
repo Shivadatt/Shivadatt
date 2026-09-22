@@ -12,15 +12,18 @@
 
 <a href="https://www.linkedin.com/in/shivadatt-puri-0b1247263/">
 <img src="https://img.shields.io/badge/LinkedIn-07070C?style=flat-square&logo=linkedin&logoColor=6FE0C9" height="26"/>
-</a>&nbsp;
+</a>
+&nbsp;
 
 <a href="mailto:shivadattpuri2172000@gmail.com">
 <img src="https://img.shields.io/badge/Email-07070C?style=flat-square&logo=gmail&logoColor=E8C468" height="26"/>
-</a>&nbsp;
+</a>
+&nbsp;
 
 <a href="https://anviktech.com">
 <img src="https://img.shields.io/badge/Portfolio-07070C?style=flat-square&logo=firefox&logoColor=6FE0C9" height="26"/>
-</a>&nbsp;
+</a>
+&nbsp;
 
 <a href="https://github.com/Shivadatt">
 <img src="https://img.shields.io/badge/GitHub-07070C?style=flat-square&logo=github&logoColor=E8C468" height="26"/>
@@ -46,9 +49,12 @@ Building and leading digital products across mobile, web and business platforms 
 
 <br/>
 
-<img src="https://img.shields.io/badge/Flutter-Developer-07070C?style=for-the-badge&labelColor=E8C468&color=07070C&logo=flutter&logoColor=07070C"/>&nbsp;
-<img src="https://img.shields.io/badge/Mobile%20%26%20Web-Development-07070C?style=for-the-badge&labelColor=6FE0C9&color=07070C"/>&nbsp;
-<img src="https://img.shields.io/badge/Product-Development-07070C?style=for-the-badge&labelColor=E8C468&color=07070C"/>&nbsp;
+<img src="https://img.shields.io/badge/Flutter-Developer-07070C?style=for-the-badge&labelColor=E8C468&color=07070C&logo=flutter&logoColor=07070C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Mobile%20%26%20Web-Development-07070C?style=for-the-badge&labelColor=6FE0C9&color=07070C"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Product-Development-07070C?style=for-the-badge&labelColor=E8C468&color=07070C"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Business-Strategy-07070C?style=for-the-badge&labelColor=6FE0C9&color=07070C"/>
 
 </div>
@@ -103,6 +109,7 @@ digital products.
 </div>
 
 <table width="100%">
+
 <tr>
 <th align="left">Project</th>
 <th align="left">Technology</th>
@@ -155,17 +162,25 @@ digital products.
 <img src="https://img.shields.io/badge/Vendor%20Management-Repository-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/Shivadatt/Vendor-management-sppuri-">
 <img src="https://img.shields.io/badge/Vendor%20Management%20SPPURI-Repository-07070C?style=for-the-badge&logo=github&logoColor=6FE0C9"/>
 </a>
+
+<br/><br/>
 
 <a href="https://github.com/Shivadatt/nashi-app">
 <img src="https://img.shields.io/badge/Nashi-App-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/Shivadatt/om_events">
 <img src="https://img.shields.io/badge/OM%20Events-Repository-07070C?style=for-the-badge&logo=github&logoColor=6FE0C9"/>
 </a>
+
+<br/><br/>
 
 <a href="https://github.com/Shivadatt/om_event_flutter">
 <img src="https://img.shields.io/badge/OM%20Event%20Flutter-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/>
@@ -206,6 +221,7 @@ digital products.
 <br/>
 
 <table width="100%">
+
 <tr>
 
 <td align="center" width="25%">
@@ -213,6 +229,8 @@ digital products.
 ### 📱
 
 <b>Mobile Apps</b>
+
+<br/><br/>
 
 Flutter applications
 for Android & iOS
@@ -225,6 +243,8 @@ for Android & iOS
 
 <b>Web Apps</b>
 
+<br/><br/>
+
 Responsive Flutter
 Web applications
 
@@ -235,6 +255,8 @@ Web applications
 ### 🚀
 
 <b>Products</b>
+
+<br/><br/>
 
 From concept
 to production
@@ -247,12 +269,15 @@ to production
 
 <b>Business</b>
 
+<br/><br/>
+
 Strategy & Project
 Management
 
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -314,13 +339,19 @@ technology with real business needs.
 <img src="https://img.shields.io/badge/LinkedIn-Connect-07070C?style=for-the-badge&logo=linkedin&logoColor=6FE0C9"/>
 </a>
 
+&nbsp;
+
 <a href="https://anviktech.com">
 <img src="https://img.shields.io/badge/Portfolio-anviktech.com-07070C?style=for-the-badge&logo=firefox&logoColor=E8C468"/>
 </a>
 
+<br/><br/>
+
 <a href="mailto:shivadattpuri2172000@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-07070C?style=for-the-badge&logo=gmail&logoColor=6FE0C9"/>
 </a>
+
+&nbsp;
 
 <a href="https://github.com/Shivadatt">
 <img src="https://img.shields.io/badge/GitHub-Shivadatt-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/>
