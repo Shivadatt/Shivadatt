@@ -2,38 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,40:1B1330,75:241A3D,100:0C1420&height=250&section=header&text=SHIVADATT%20PURI&fontSize=52&fontColor=E8C468&fontAlignY=42&animation=fadeIn&desc=CO-FOUNDER%20%26%20COO%20%C2%B7%20FLUTTER%20DEVELOPER&descAlignY=62&descSize=15&descColor=6FE0C9" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=6FE0C9&center=true&vCenter=true&width=700&lines=Flutter+Developer+%C2%B7+Mobile+App+Architect;Product+Development+%C2%B7+Business+Strategy;Building+Mobile+%26+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=6FE0C9&center=true&vCenter=true&width=650&lines=Flutter+Developer+%C2%B7+Mobile+App+Architect;Product+Development+%C2%B7+Business+Strategy;Building+Mobile+%26+Web+Applications;Technology+%C2%B7+Product+%C2%B7+Business" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/Shivadatt/Shivadatt/main/assets/profile.jpg" width="150" alt="Shivadatt Puri"/>
+<a href="https://www.linkedin.com/in/shivadatt-puri-0b1247263/"><img src="https://img.shields.io/badge/LinkedIn-07070C?style=flat-square&logo=linkedin&logoColor=6FE0C9" height="26"/></a>&nbsp;
+<a href="mailto:shivadattpuri2172000@gmail.com"><img src="https://img.shields.io/badge/Email-07070C?style=flat-square&logo=gmail&logoColor=E8C468" height="26"/></a>&nbsp;
+<a href="https://anviktech.com"><img src="https://img.shields.io/badge/Portfolio-07070C?style=flat-square&logo=firefox&logoColor=6FE0C9" height="26"/></a>&nbsp;
+<a href="https://github.com/Shivadatt"><img src="https://img.shields.io/badge/GitHub-07070C?style=flat-square&logo=github&logoColor=E8C468" height="26"/></a>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/shivadatt-puri-0b1247263/">
-<img src="https://img.shields.io/badge/LinkedIn-07070C?style=flat-square&logo=linkedin&logoColor=6FE0C9" height="26"/>
-</a>
-&nbsp;
-
-<a href="mailto:shivadattpuri2172000@gmail.com">
-<img src="https://img.shields.io/badge/Email-07070C?style=flat-square&logo=gmail&logoColor=E8C468" height="26"/>
-</a>
-&nbsp;
-
-<a href="https://anviktech.com">
-<img src="https://img.shields.io/badge/Portfolio-07070C?style=flat-square&logo=firefox&logoColor=6FE0C9" height="26"/>
-</a>
-&nbsp;
-
-<a href="https://github.com/Shivadatt">
-<img src="https://img.shields.io/badge/GitHub-07070C?style=flat-square&logo=github&logoColor=E8C468" height="26"/>
-</a>
-
-<br/><br/>
-
-<sub>
-<img src="https://komarev.com/ghpvc/?username=Shivadatt&style=flat-square&color=1B1330&label=profile%20views&labelColor=07070C" height="20"/>
-</sub>
+<sub><img src="https://komarev.com/ghpvc/?username=Shivadatt&style=flat-square&color=1B1330&label=views&labelColor=07070C" height="20"/></sub>
 
 </div>
 
@@ -43,19 +21,14 @@
 
 <div align="center">
 
-### Technology → Product → Business
-
-Building and leading digital products across mobile, web and business platforms — from idea to execution.
+### Technology → Product → Business. Building digital products from idea to execution.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Flutter-Developer-07070C?style=for-the-badge&labelColor=E8C468&color=07070C&logo=flutter&logoColor=07070C"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Mobile%20%26%20Web-Development-07070C?style=for-the-badge&labelColor=6FE0C9&color=07070C"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Product-Development-07070C?style=for-the-badge&labelColor=E8C468&color=07070C"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Business-Strategy-07070C?style=for-the-badge&labelColor=6FE0C9&color=07070C"/>
+<img src="https://img.shields.io/badge/Flutter-Developer-07070C?style=for-the-badge&labelColor=E8C468&color=07070C"/>&nbsp;
+<img src="https://img.shields.io/badge/Mobile%20Apps-Building-07070C?style=for-the-badge&labelColor=6FE0C9&color=07070C"/>&nbsp;
+<img src="https://img.shields.io/badge/Product-Development-07070C?style=for-the-badge&labelColor=E8C468&color=07070C"/>&nbsp;
+<img src="https://img.shields.io/badge/Business-Technology-07070C?style=for-the-badge&labelColor=6FE0C9&color=07070C"/>
 
 </div>
 
@@ -65,35 +38,36 @@ Building and leading digital products across mobile, web and business platforms 
 
 <div align="center">
 
-## 👨‍💻 About Me
+## About Me
 
 </div>
 
 <p align="center">
-I'm a <b>Flutter Developer</b>, <b>Mobile App Architect</b> and
-<b>Co-Founder & COO at Anvik Innovations & Technology</b>.
-</p>
 
-<p align="center">
-I work across <b>software development, product development, business strategy
-and project management</b>, with a focus on building practical and scalable
-digital products.
+<b>Co-Founder & Chief Operating Officer (COO)</b> at
+<b>Anvik Innovations & Technology</b>
+
+<br/>
+
+Flutter Developer · Mobile App Architect · Business Strategy
+· Product Development · Project Management
+
 </p>
 
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Flutter-07070C?style=for-the-badge&logo=flutter&logoColor=6FE0C9"/>
-<img src="https://img.shields.io/badge/Dart-07070C?style=for-the-badge&logo=dart&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Firebase-07070C?style=for-the-badge&logo=firebase&logoColor=E8C468"/>
+<img src="https://img.shields.io/badge/Flutter-07070C?style=for-the-badge&logo=flutter&logoColor=6FE0C9"/>&nbsp;
+<img src="https://img.shields.io/badge/Dart-07070C?style=for-the-badge&logo=dart&logoColor=E8C468"/>&nbsp;
+<img src="https://img.shields.io/badge/Firebase-07070C?style=for-the-badge&logo=firebase&logoColor=E8C468"/>&nbsp;
 <img src="https://img.shields.io/badge/Supabase-07070C?style=for-the-badge&logo=supabase&logoColor=6FE0C9"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BLoC-07070C?style=for-the-badge&logoColor=6FE0C9"/>
-<img src="https://img.shields.io/badge/GetX-07070C?style=for-the-badge&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Provider-07070C?style=for-the-badge&logoColor=6FE0C9"/>
+<img src="https://img.shields.io/badge/BLoC-07070C?style=for-the-badge&logoColor=6FE0C9"/>&nbsp;
+<img src="https://img.shields.io/badge/GetX-07070C?style=for-the-badge&logoColor=E8C468"/>&nbsp;
+<img src="https://img.shields.io/badge/Provider-07070C?style=for-the-badge&logoColor=6FE0C9"/>&nbsp;
 <img src="https://img.shields.io/badge/SQLite-07070C?style=for-the-badge&logo=sqlite&logoColor=E8C468"/>
 
 </div>
@@ -104,7 +78,7 @@ digital products.
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Featured Projects
 
 </div>
 
@@ -158,33 +132,19 @@ digital products.
 
 <div align="center">
 
-<a href="https://github.com/Shivadatt/Vendor-management-">
-<img src="https://img.shields.io/badge/Vendor%20Management-Repository-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/>
-</a>
+<a href="https://github.com/Shivadatt/Vendor-management-"><img src="https://img.shields.io/badge/Vendor%20Management-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/></a>&nbsp;
 
-&nbsp;
-
-<a href="https://github.com/Shivadatt/Vendor-management-sppuri-">
-<img src="https://img.shields.io/badge/Vendor%20Management%20SPPURI-Repository-07070C?style=for-the-badge&logo=github&logoColor=6FE0C9"/>
-</a>
+<a href="https://github.com/Shivadatt/Vendor-management-sppuri-"><img src="https://img.shields.io/badge/Vendor%20Management%20SPPURI-07070C?style=for-the-badge&logo=github&logoColor=6FE0C9"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/Shivadatt/nashi-app">
-<img src="https://img.shields.io/badge/Nashi-App-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/>
-</a>
+<a href="https://github.com/Shivadatt/nashi-app"><img src="https://img.shields.io/badge/Nashi-App-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/></a>&nbsp;
 
-&nbsp;
-
-<a href="https://github.com/Shivadatt/om_events">
-<img src="https://img.shields.io/badge/OM%20Events-Repository-07070C?style=for-the-badge&logo=github&logoColor=6FE0C9"/>
-</a>
+<a href="https://github.com/Shivadatt/om_events"><img src="https://img.shields.io/badge/OM%20Events-07070C?style=for-the-badge&logo=github&logoColor=6FE0C9"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/Shivadatt/om_event_flutter">
-<img src="https://img.shields.io/badge/OM%20Event%20Flutter-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/>
-</a>
+<a href="https://github.com/Shivadatt/om_event_flutter"><img src="https://img.shields.io/badge/OM%20Event%20Flutter-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/></a>
 
 </div>
 
@@ -194,7 +154,7 @@ digital products.
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Stack
 
 <br/>
 
@@ -202,11 +162,10 @@ digital products.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BLoC-07070C?style=for-the-badge&logoColor=6FE0C9"/>
-<img src="https://img.shields.io/badge/GetX-07070C?style=for-the-badge&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/Provider-07070C?style=for-the-badge&logoColor=6FE0C9"/>
-<img src="https://img.shields.io/badge/REST%20API-07070C?style=for-the-badge&logoColor=E8C468"/>
-<img src="https://img.shields.io/badge/OOP-07070C?style=for-the-badge&logoColor=6FE0C9"/>
+<img src="https://img.shields.io/badge/BLoC-07070C?style=for-the-badge&logoColor=6FE0C9"/>&nbsp;
+<img src="https://img.shields.io/badge/GetX-07070C?style=for-the-badge&logoColor=E8C468"/>&nbsp;
+<img src="https://img.shields.io/badge/Clean%20Architecture-07070C?style=for-the-badge&logoColor=E8C468"/>&nbsp;
+<img src="https://img.shields.io/badge/REST%20API-07070C?style=for-the-badge&logoColor=6FE0C9"/>
 
 </div>
 
@@ -216,79 +175,7 @@ digital products.
 
 <div align="center">
 
-## 💼 What I Work On
-
-<br/>
-
-<table width="100%">
-
-<tr>
-
-<td align="center" width="25%">
-
-### 📱
-
-<b>Mobile Apps</b>
-
-<br/><br/>
-
-Flutter applications
-for Android & iOS
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-<b>Web Apps</b>
-
-<br/><br/>
-
-Responsive Flutter
-Web applications
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-<b>Products</b>
-
-<br/><br/>
-
-From concept
-to production
-
-</td>
-
-<td align="center" width="25%">
-
-### 📊
-
-<b>Business</b>
-
-<br/><br/>
-
-Strategy & Project
-Management
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:241A3D,100:0C1420&height=2" width="100%">
-
-<div align="center">
-
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <br/>
 
@@ -296,44 +183,27 @@ Management
 
 <img src="https://streak-stats.demolab.com/?user=Shivadatt&hide_border=true&border_radius=14&background=07070C&ring=E8C468&fire=E8C468&currStreakLabel=6FE0C9&sideLabels=6FE0C9&sideNums=E8C468&dates=64748B&currStreakNum=E8C468" height="165"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivadatt&theme=tokyonight&hide_border=true&border_radius=14&layout=compact&langs_count=8&title_color=E8C468&text_color=CBD5E1&bg_color=07070C" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivadatt&theme=tokyonight&hide_border=true&border_radius=14&layout=compact&langs_count=6&title_color=E8C468&text_color=CBD5E1&bg_color=07070C" height="165"/>
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:241A3D,100:0C1420&height=2" width="100%">
 
 <div align="center">
 
-## 🎯 Current Focus
-
 <br/>
 
-<img src="https://img.shields.io/badge/Flutter-Application%20Development-07070C?style=for-the-badge&logo=flutter&logoColor=6FE0C9"/>
-
-<img src="https://img.shields.io/badge/Product-Development-07070C?style=for-the-badge&logoColor=E8C468"/>
-
-<img src="https://img.shields.io/badge/Business-Technology-07070C?style=for-the-badge&logoColor=6FE0C9"/>
+### Building technology. Developing products. Creating impact.
 
 <br/><br/>
 
-Building scalable applications, improving product experiences and connecting
-technology with real business needs.
+<a href="mailto:shivadattpuri2172000@gmail.com">
+<img src="https://img.shields.io/badge/Get%20in%20touch-07070C?style=for-the-badge&logo=gmail&logoColor=6FE0C9" height="34"/>
+</a>
 
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:241A3D,100:0C1420&height=2" width="100%">
-
-<div align="center">
-
-## 📫 Connect With Me
-
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/shivadatt-puri-0b1247263/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-07070C?style=for-the-badge&logo=linkedin&logoColor=6FE0C9"/>
@@ -346,22 +216,6 @@ technology with real business needs.
 </a>
 
 <br/><br/>
-
-<a href="mailto:shivadattpuri2172000@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-07070C?style=for-the-badge&logo=gmail&logoColor=6FE0C9"/>
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Shivadatt">
-<img src="https://img.shields.io/badge/GitHub-Shivadatt-07070C?style=for-the-badge&logo=github&logoColor=E8C468"/>
-</a>
-
-<br/><br/>
-
-### Building technology. Developing products. Creating impact.
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,40:1B1330,75:241A3D,100:0C1420&height=130&section=footer"/>
 
