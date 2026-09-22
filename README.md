@@ -1,27 +1,58 @@
 <div align="center">
 
-![SHIVADATT PURI](https://capsule-render.vercel.app/api?type=waving&color=0:07070C,50:241A3D,100:0C1420&height=250&section=header&text=SHIVADATT%20PURI&fontSize=52&fontColor=E8C468&fontAlignY=40&desc=CO-FOUNDER%20%26%20COO&descAlignY=62&descSize=17&descColor=E8C468&animation=fadeIn)
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#171328">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=6FE0C9&center=true&vCenter=true&width=560&lines=Flutter+Developer+%C2%B7+Mobile+App+Architect;Product+Development+%C2%B7+Business+Strategy;Building+Mobile+%26+Web+Applications;Technology+%C2%B7+Product+%C2%B7+Business" alt="Typing SVG" />
+<br><br>
 
-<br/>
+<font color="#E8C468" size="7">
+<b>SHIVADATT PURI</b>
+</font>
+
+<br><br>
+
+<font color="#E8C468" size="4">
+<b>CO-FOUNDER &amp; COO</b>
+</font>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img
+src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&amp;weight=500&amp;size=17&amp;duration=3000&amp;pause=1200&amp;color=6FE0C9&amp;center=true&amp;vCenter=true&amp;width=560&amp;lines=Flutter+Developer+%C2%B7+Mobile+App+Architect;Product+Development+%C2%B7+Business+Strategy;Building+Mobile+%26+Web+Applications;Technology+%C2%B7+Product+%C2%B7+Business"
+alt="Typing"
+/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/shivadatt-puri-0b1247263/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&amp;logo=linkedin&amp;logoColor=FFFFFF">
 </a>
+
 <a href="mailto:shivadattpuri2172000@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=E8C468" />
+<img src="https://img.shields.io/badge/Email-000000?style=flat-square&amp;logo=gmail&amp;logoColor=E8C468">
 </a>
+
 <a href="https://www.anviktech.com/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=6FE0C9" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&amp;logo=googlechrome&amp;logoColor=6FE0C9">
 </a>
+
 <a href="https://github.com/Shivadatt">
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=E8C468" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&amp;logo=github&amp;logoColor=E8C468">
 </a>
 
-<br/><br/>
+<br><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Shivadatt&label=views&color=241A3D&style=flat-square" />
+<img
+src="https://komarev.com/ghpvc/?username=Shivadatt&amp;label=views&amp;color=241A3D&amp;style=flat-square"
+alt="Profile Views"
+/>
 
 </div>
 
@@ -47,11 +78,11 @@ Building digital products from idea to execution.
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,androidstudio,vscode,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,androidstudio,vscode,figma&perline=9">
 
-</p>
+</div>
 
 ---
 
@@ -70,23 +101,31 @@ Building digital products from idea to execution.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivadatt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=Shivadatt&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true"
+height="165"
+>
 
-<img src="https://streak-stats.demolab.com?user=Shivadatt&theme=tokyonight&hide_border=true" height="165"/>
+<img
+src="https://streak-stats.demolab.com?user=Shivadatt&amp;theme=tokyonight&amp;hide_border=true"
+height="165"
+>
 
-</p>
+</div>
 
 ---
 
-## 💻 Development
+## 💻 Most Used Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivadatt&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivadatt&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+>
 
-</p>
+</div>
 
 ---
 
@@ -96,10 +135,10 @@ Building digital products from idea to execution.
 
 **Flutter • Product • Technology • Business**
 
-<br/>
+<br>
 
 <a href="mailto:shivadattpuri2172000@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Connect-E8C468?style=for-the-badge&logo=gmail&logoColor=000000" />
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-E8C468?style=for-the-badge&amp;logo=gmail&amp;logoColor=000000">
 </a>
 
 </div>
